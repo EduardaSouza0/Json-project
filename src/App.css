@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.stock-container{
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 3em;
+}
+.table{
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: none;
+  border-color: #000000;
+  border: none;
+}
+.table td{
+  font-weight: 600;
+  width: 25%;
+  padding: 0 1% 0 1% ;
+  font-size: 12pt;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
